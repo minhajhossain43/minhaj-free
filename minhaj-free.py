@@ -338,7 +338,7 @@ def pak():
 				elif pcs in ['6','06']:
 					passlist = [psx,ids,'khankhan','khan1122','786786','ali786','khan123','khan12','pakistan','ali123','khanbaba']
 				elif pcs in ['7','07']:
-					passlist = [psx,ids,'Bangladesh','bangladesh','i love you','iloveyou','free fire','freefire',]
+					passlist = [psx,ids,'Bangladesh','bangladesh','i love you','iloveyou','free fire','freefire']
 				elif pcs in ['8','08']:
 					passlist = [psx,ids,'afghan','afghan12345','afghan123','600700','afghanistan','afghan1122','500500','100200','10002000','900900','kabul123']
 				if mthd in ['1','01']:
